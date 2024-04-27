@@ -4,6 +4,6 @@ Flexible bivalent streams for Common Lisp.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/edicl/flexi-streams.git |
-| commit  | 74a1027                                        |
+| commit  | 4951d57                                        |
 | systems | flexi-streams                                  |
 |---------+------------------------------------------------|
